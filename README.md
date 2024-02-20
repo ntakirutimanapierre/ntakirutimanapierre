@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ntakirutimanapierre
 - 👀 I’m interested in Machine learning and data science
-- 🌱 I’m currently learning Python programming and mathematics
-- 💞️ I’m looking to collaborate on machine learning projects
+- 🌱 I hold a master's degree in Mathematical Sciences with a major in data science and I am currently doing another masters with a concentration in data analytics and applied machine leatning
+- 💞️ I’m looking to collaborate on machine learning projects also get a data science position withing your organization.
 - 📫 How to reach me pierre.ntakirutimana@aims.ac.rw/ pntakiru@andrew.cmu.edu
 
 <!---
