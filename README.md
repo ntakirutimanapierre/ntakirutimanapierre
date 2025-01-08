@@ -1,6 +1,6 @@
 # Hi there, I'm Pierre! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in Data, machine learning, and Capacity building. 
+Welcome to my GitHub profile! I'm a Engineer and Scientist with a keen interest in Data, machine learning, and Capacity building. 
 
 - 👀 I’m interested in Machine learning and data science and I have a keen interest in building a aligorithms to make the date usable in makig decisions.
 - 🌱 I hold two master's degrees; in Mathematical Sciences and in Electrical and Computer Engineering from Carnegie Mellon University with a focus in data analytics and applied machine learning.
