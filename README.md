@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Languages and Tools
 
 - **Languages**: JavaScript, Python, HTML, CSS
-- **Frameworks**: React, Node.js, Express
+- **Frameworks**: Learning -> React, Node.js, Express
 - **Tools**: Git, Docker, VS Code, Jupyter Notebook
 
 ## 📈 GitHub Stats
